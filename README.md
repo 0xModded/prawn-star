@@ -6,4 +6,5 @@ Currently it just searches for blacklisted words, then deltes the offending post
 # Awesome! Roadmap for this?
 not yet! If you have a suggestion or want to see me do something, make a pull request!
 # How do I get this set up on my subreddit?
-see gif below :) 
+see gif below :)
+![](https://github.com/Tele-Mon/prawn-star/blob/main/prawnstar%20tutorial(1).gif)
