@@ -1,4 +1,4 @@
-#This is ***Prawn Star!***, a better AutoMod for NSFW subreddits!
+# This is ***Prawn Star!***, a better AutoMod for NSFW subreddits!
 # What is this?
 Maybe stop watching porn for 3 seconds and read the line above this. AutoMod sucks for NSFW subreddits. I made a better version :)
 # Ok cool! What does it do though?
